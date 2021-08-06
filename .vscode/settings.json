@@ -1,0 +1,11 @@
+{
+    // Theme
+  "workbench.colorTheme": "Atom One Dark",
+
+  // config related to code formatting
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
